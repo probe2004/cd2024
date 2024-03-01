@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-01T16:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-01T08:42:04+08:00</updated><author><name>probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-01T16:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-01T08:46:37+08:00</updated><author><name>probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 
 
@@ -14,7 +14,7 @@
 41123146樊明睿
 41123150顏崇祐
 41136113邱崑展
-41136123林育驊&lt;/p&gt;
+41136123黃育驊&lt;/p&gt;
 &lt;p&gt;2.建立github分組倉儲提供組員加入&lt;/p&gt;
 &lt;p&gt;3.製作組別倉儲ssh鑰匙&lt;/p&gt;
 &lt;p&gt;4.import進入Replit&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry></feed>
