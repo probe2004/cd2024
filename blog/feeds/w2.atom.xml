@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-01T16:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-01T08:46:37+08:00</updated><author><name>probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-08T15:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-03-08T06:29:45+08:00</updated><author><name>probe</name></author><id>tag:None,2024-03-08:./cd2024-2a-w3.html</id><summary type="html">&lt;p&gt;2024 Spring 第三週 翻譯作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第三週 翻譯作業&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統&lt;/h1&gt;
+&lt;h2&gt;w3&lt;/h2&gt;
+&lt;p&gt;利用工具翻譯MS Teams裡的pdf，組員分工合作統整上傳。&lt;/p&gt;
+&lt;p&gt;頁數分組抽籤如下:
+1-20  葉承軒
+21-31 黃育驊
+32-42 樊明睿
+43-53 張晏菖
+54-64 顏崇祐
+65-75 邱崑展
+76-87 段勝吉
+統整  田芸熏&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組﹐翻譯"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-08T06:14:48+08:00</updated><author><name>probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 
 
@@ -15,6 +30,6 @@
 41123150顏崇祐
 41136113邱崑展
 41136123黃育驊&lt;/p&gt;
-&lt;p&gt;2.建立github分組倉儲提供組員加入&lt;/p&gt;
-&lt;p&gt;3.製作組別倉儲ssh鑰匙&lt;/p&gt;
-&lt;p&gt;4.import進入Replit&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry></feed>
+&lt;p&gt;2.建立github分組倉儲提供組員加入。&lt;/p&gt;
+&lt;p&gt;3.製作組別倉儲ssh鑰匙。&lt;/p&gt;
+&lt;p&gt;4.import進入Replit。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry></feed>
