@@ -25,7 +25,7 @@
 65-75 邱崑展
 76-87 段勝吉
 統整  田芸熏&lt;/p&gt;
-&lt;p&gt;3.協助各組員加入midga1子模組。&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫﹐分組﹐翻譯"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-15T06:37:19+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
+&lt;p&gt;3.協助各組員加入midga1子模組。&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫﹐分組﹐翻譯"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-15T08:33:08+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 
 
@@ -43,7 +43,26 @@
 41136123黃育驊&lt;/p&gt;
 &lt;p&gt;2.建立github分組倉儲提供組員加入。&lt;/p&gt;
 &lt;p&gt;3.製作組別倉儲ssh鑰匙。&lt;/p&gt;
-&lt;p&gt;4.import進入Replit。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T23:00:00+08:00</published><updated>2024-03-15T07:32:14+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 第一週 網誌&lt;/p&gt;
+&lt;p&gt;4.import進入Replit。&lt;/p&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-probe2004-github-io-cd2024.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T23:00:00+08:00</published><updated>2024-03-15T07:32:14+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 第一週 網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第一週 網誌&lt;/p&gt;
 
 
