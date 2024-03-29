@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T16:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-03-22T08:07:37+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T14:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w6.html" rel="alternate"></link><published>2024-03-29T14:00:00+08:00</published><updated>2024-03-29T08:07:17+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-29:./cd2024-2a-w6.html</id><summary type="html">&lt;p&gt;2024 Spring 第六週 網誌
+因群組內的個人倉儲未同步更新，要進入codespaces更改
+程式如下
+git submodule update --init
+cd 自己學號 進入到自己的資料夾內
+git pull origin main 把最新版本拉下同步
+cd ..回上頁
+git status 查看分支現在狀況
+git add . 加入
+git commit -m "更新內容"
+git push 推送
+到github查看是否更新成功&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第六週 網誌
+因群組內的個人倉儲未同步更新，要進入codespaces更改
+程式如下
+git submodule update --init
+cd 自己學號 進入到自己的資料夾內
+git pull origin main 把最新版本拉下同步
+cd ..回上頁
+git status 查看分支現在狀況
+git add . 加入
+git commit -m "更新內容"
+git push 推送
+到github查看是否更新成功&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫﹐子模組"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-03-22T08:07:37+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
 
 
@@ -66,7 +92,7 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T23:00:00+08:00</published><updated>2024-03-15T07:32:14+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 第一週 網誌&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫﹐分組"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T23:00:00+08:00</published><updated>2024-03-29T07:06:40+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 第一週 網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第一週 網誌&lt;/p&gt;
 
 
