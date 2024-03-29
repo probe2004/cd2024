@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T14:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w6.html" rel="alternate"></link><published>2024-03-29T14:00:00+08:00</published><updated>2024-03-29T08:07:17+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-29:./cd2024-2a-w6.html</id><summary type="html">&lt;p&gt;2024 Spring 第六週 網誌
-因群組內的個人倉儲未同步更新，要進入codespaces更改
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T14:00:00+08:00</updated><entry><title>W6</title><link href="./cd2024-2a-w6.html" rel="alternate"></link><published>2024-03-29T14:00:00+08:00</published><updated>2024-03-29T08:37:17+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-29:./cd2024-2a-w6.html</id><summary type="html">&lt;p&gt;2024 Spring 第六週 網誌&lt;/p&gt;
+&lt;p&gt;因群組內的個人倉儲未同步更新，要進入codespaces更改
 程式如下
 git submodule update --init
 cd 自己學號 進入到自己的資料夾內
@@ -11,8 +11,8 @@ git add . 加入
 git commit -m "更新內容"
 git push 推送
 到github查看是否更新成功&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第六週 網誌
-因群組內的個人倉儲未同步更新，要進入codespaces更改
+</summary><content type="html">&lt;p&gt;2024 Spring 第六週 網誌&lt;/p&gt;
+&lt;p&gt;因群組內的個人倉儲未同步更新，要進入codespaces更改
 程式如下
 git submodule update --init
 cd 自己學號 進入到自己的資料夾內
@@ -25,11 +25,11 @@ git push 推送
 到github查看是否更新成功&lt;/p&gt;
 
 
-&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫﹐子模組"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-03-22T08:07:37+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
+&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫﹐子模組"></category></entry><entry><title>W5</title><link href="./cd2024-2a-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-03-29T08:37:31+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
 
 
-&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫﹐翻譯作業"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w4.html" rel="alternate"></link><published>2024-03-15T14:00:00+08:00</published><updated>2024-03-15T08:29:13+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-15:./cd2024-2a-w4.html</id><summary type="html">&lt;p&gt;2024 Spring 第四週 影片上字幕&lt;/p&gt;
+&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫﹐翻譯作業"></category></entry><entry><title>W4</title><link href="./cd2024-2a-w4.html" rel="alternate"></link><published>2024-03-15T14:00:00+08:00</published><updated>2024-03-29T08:37:46+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-15:./cd2024-2a-w4.html</id><summary type="html">&lt;p&gt;2024 Spring 第四週 影片上字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第四週 影片上字幕&lt;/p&gt;
 
 
@@ -39,7 +39,7 @@ git push 推送
 &lt;p&gt;2.影片逐字稿產生&lt;/p&gt;
 &lt;p&gt;3.組長統整全部影片。&lt;/p&gt;
 &lt;p&gt;4.&lt;a href="https://drive.google.com/drive/folders/14sDUncS7C1BIqFQBrcUbDH9-4of_IuGu?usp=drive_link"&gt;影片位於google雲端硬碟&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;5.&lt;a href="https://drive.google.com/drive/folders/16o4nR3whRk9k8C_eAx97uaiwu12lm4QR?usp=drive_link"&gt;逐字稿位於google雲端硬碟&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫﹐影片﹐字幕"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-03-15T06:37:16+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-08:./cd2024-2a-w3.html</id><summary type="html">&lt;p&gt;2024 Spring 第三週 翻譯作業&lt;/p&gt;
+&lt;p&gt;5.&lt;a href="https://drive.google.com/drive/folders/16o4nR3whRk9k8C_eAx97uaiwu12lm4QR?usp=drive_link"&gt;逐字稿位於google雲端硬碟&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫﹐影片﹐字幕"></category></entry><entry><title>W3</title><link href="./cd2024-2a-w3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-03-29T08:37:55+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-08:./cd2024-2a-w3.html</id><summary type="html">&lt;p&gt;2024 Spring 第三週 翻譯作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第三週 翻譯作業&lt;/p&gt;
 
 
@@ -55,7 +55,7 @@ git push 推送
 65-75 邱崑展
 76-87 段勝吉
 統整  田芸熏&lt;/p&gt;
-&lt;p&gt;3.協助各組員加入midga1子模組。&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫﹐分組﹐翻譯"></category></entry><entry><title>2024 Spring 課程</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-15T08:33:08+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
+&lt;p&gt;3.協助各組員加入midga1子模組。&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫﹐分組﹐翻譯"></category></entry><entry><title>W2</title><link href="./cd2024-2a-w2.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-03-29T08:38:17+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-01:./cd2024-2a-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第二週 分組&lt;/p&gt;
 
 
