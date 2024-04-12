@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T14:00:00+08:00</updated><entry><title>W8</title><link href="./cd2024-2a-w8.html" rel="alternate"></link><published>2024-04-12T14:00:00+08:00</published><updated>2024-04-12T06:05:05+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-12:./cd2024-2a-w8.html</id><summary type="html">&lt;p&gt;2024 Spring 第八週 網誌
+今日遇到的較難處理的狀況-提交多數中有一則提交檔案過大，但是已經覆蓋很多次的提交。&lt;/p&gt;
+&lt;p&gt;詢問chatGPT得知要往前推一則提交要輸入git reset --hard …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2024 Spring 第八週 網誌
+今日遇到的較難處理的狀況-提交多數中有一則提交檔案過大，但是已經覆蓋很多次的提交。&lt;/p&gt;
+&lt;p&gt;詢問chatGPT得知要往前推一則提交要輸入git reset --hard HEAD^&lt;/p&gt;
+&lt;p&gt;推到自己要的提交之前進行修正。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫﹐ChatGPT"></category></entry></feed>
