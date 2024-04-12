@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T08:37:31+08:00</updated><entry><title>W5</title><link href="./cd2024-2a-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-03-29T08:37:31+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
-
-
-&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫﹐翻譯作業"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T08:01:50+08:00</updated><entry><title>W5</title><link href="./cd2024-2a-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-04-12T08:01:50+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
+&lt;p&gt;重點整理:組長必須建立一個midag的其中team&lt;/p&gt;
+&lt;p&gt;利用codespaces來進行同步更新&lt;/p&gt;
+&lt;p&gt;要啟動codespaces裡要先輸入chmod x+u init_replit把模組安裝&lt;/p&gt;
+&lt;p&gt;接下來輸入python3 main.py來開啟（類似replit中的Run鍵）&lt;/p&gt;
+&lt;p&gt;推送的步驟如下
+git add …&lt;/p&gt;</summary><content type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
+&lt;p&gt;重點整理:組長必須建立一個midag的其中team&lt;/p&gt;
+&lt;p&gt;利用codespaces來進行同步更新&lt;/p&gt;
+&lt;p&gt;要啟動codespaces裡要先輸入chmod x+u init_replit把模組安裝&lt;/p&gt;
+&lt;p&gt;接下來輸入python3 main.py來開啟（類似replit中的Run鍵）&lt;/p&gt;
+&lt;p&gt;推送的步驟如下
+git add .
+git commit -m "modify site title"
+git push
+完成後回到網頁確認更新完畢&lt;/p&gt;
+&lt;p&gt;網頁給的cpu為二核 8gb的ram跟32gb的內存&lt;/p&gt;
+&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫﹐自評"></category></entry></feed>
