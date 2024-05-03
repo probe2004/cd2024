@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 
-  <title>Probe的協同產品設計實習網站 - Authors</title>
+  <title>W11</title>
 
 
   <meta name="HandheldFriendly" content="True" />
@@ -18,6 +18,7 @@
 
   <!-- Feed -->
         <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Probe的協同產品設計實習網站 Full Atom Feed" />
+          <link href="./feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate" title="Probe的協同產品設計實習網站 Categories Atom Feed" />
 
   <link href="./theme/css/style.css" type="text/css" rel="stylesheet" />
 
@@ -39,27 +40,49 @@
   <![endif]-->
 
 
+    <link href="./cd2024-2a-w11.html" rel="canonical" />
+
+        <meta name="description" content="2024 Spring 第十週 網誌">
+
+        <meta name="author" content="Probe">
+
+        <meta name="tags" content="網誌編寫﹐課程心得">
+
+
 
 
 <!-- Open Graph -->
 <meta property="og:site_name" content="Probe的協同產品設計實習網站"/>
-<meta property="og:type" content="blog"/>
-<meta property="og:title" content="Probe的協同產品設計實習網站"/>
-<meta property="og:description" content="View the blog."/>
+<meta property="og:title" content="W11"/>
+<meta property="og:description" content="2024 Spring 第十週 網誌"/>
 <meta property="og:locale" content="en_US"/>
-<meta property="og:url" content="./"/>
-<meta property="og:image" content="./theme/images/home-bg.jpg">
+<meta property="og:url" content="./cd2024-2a-w11.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2024-05-03 15:00:00+08:00"/>
+<meta property="article:modified_time" content="2024-05-03 08:13:31.240541+08:00"/>
+<meta property="article:author" content="./author/probe.html">
+<meta property="article:section" content="w11"/>
+<meta property="article:tag" content="網誌編寫﹐課程心得"/>
+<meta property="og:image" content="./theme/images/post-bg.jpg">
 
 <!-- Twitter Card -->
 
 <script type="application/ld+json">
 {
-  "@context" : "http://schema.org",
-  "@type" : "Website",
-  "name": " Probe的協同產品設計實習網站 ",
-  "url" : "./",
-  "image": "./theme/images/home-bg.jpg",
-  "description": "View the blog."
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "W11",
+  "headline": "W11",
+  "datePublished": "2024-05-03 15:00:00+08:00",
+  "dateModified": "2024-05-03 08:13:31.240541+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "Probe",
+    "url": "./author/probe.html"
+  },
+  "image": "./theme/images/post-bg.jpg",
+  "url": "./cd2024-2a-w11.html",
+  "description": "2024 Spring 第十週 網誌"
 }
 </script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
@@ -164,19 +187,31 @@ init_mathjax();
     </ul>
   </div>
 </nav>
+    <!-- Progressbar -->
+    <div class="progress-container">
+        <span class="progress-bar"></span>
+    </div>
+
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header id="post-header" class="has-cover">
       <div class="inner">
         <nav id="navigation">
             <span id="home-button" class="nav-button">
-                <a class="home-button" href="./" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+                <a class="home-button" href="./index.html" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
             </span>
           <span id="menu-button" class="nav-button">
             <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
           </span>
         </nav>
-        <h1 class="post-title">Articles by </h1>
+        <h1 class="post-title">W11</h1>
+        <!-- TODO : Proper class for headline -->
+        <span class="post-meta">
+                <a href="./author/probe.html">Probe</a>
+            | <time datetime="Fri 03 May 2024">Fri 03 May 2024</time>
+        </span>
+        <!-- TODO : Modified check -->
+            <span class="post-meta"> | Updated on Fri 03 May 2024</span>
             <div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')">
       </div>
     </header>
@@ -190,15 +225,46 @@ init_mathjax();
     </form>
 </section>
 
-      <article class="post">
+
+    <!-- Post content -->
+    <main class="content" role="main">
+        <article class="post">
         <div class="inner">
-            <a href="./author/probe.html" rel="bookmark">
-                <h2 class="post-title">
-                    Probe (10)
-                </h2>
-            </a>
-        </div>
-      </article>
+            <section class="post-content">
+                <p>2024 Spring 第十週 網誌</p>
+
+
+<h1>內容管理系統</h1>
+<h2>w11</h2>
+<p>今日作業為課程心得，以及學習如何在主分支建立其他分支，好讓大家可以供同編輯而不會衝突。
+心得如下:</p>
+<p>對於網站編寫的流程有一點點的了解，經常在滑社群網站也會看到很多關於java或是html的廣告教學，不禁會讓我想到我們使用replit建立的靜態網站，想必這在未來會是一大趨勢。但是在這些作業完成的前提之下，我可能還需要學習如何管理一個群組，像是組員的進度不一致或是大家遇到一樣的問題卡關的時候，常有每個人都不知道怎麼做而愣在一旁，我自己透過詢問老師以及chatGPT有得到相當大的解答。再將資訊給組員參考。除了寫程式以外更了解到這些原理的背後運作方式，有效率的消化多方面不同的改版，最後可以在網路上共同完成。老師提到現今的機械企業在處理眾多改版以及客戶以及工程師溝通上的問題，我們所學習的協同設計就應該要可以融合在CAD上，在零件上的討論修改等等。修這門課可以讓我在未來更有競爭裡且對於我自己想走的路線是頗有幫助的，雖然語言程式真的很難。</p>
+            </section>
+
+            <section class="post-info">
+                <aside class="post-tags">
+<a href="./tag/wang-zhi-bian-xie-ke-cheng-xin-de.html">網誌編寫﹐課程心得</a>                </aside>
+
+                <div class="clear"></div>
+
+
+                </section>
+
+
+                <aside class="post-nav">
+                    <a class="post-nav-prev" href="./cd2024-2a-w10.html">
+                        <section class="post-nav-teaser">
+                            <i class="ic ic-arrow-right"></i>
+                                <h2 class="post-nav-title">W10</h2>
+                            <p class="post-nav-excerpt">2024 Spring 第十週 網誌</p>
+                        </section>
+                    </a>
+                    <div class="clear"></div>
+                </aside>
+
+            </div>
+        </article>
+    </main>
       <!-- TODO : Body class -->
     <div id="body-class" style="display: none;" class=""></div>
 
