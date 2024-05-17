@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T14:30:00+08:00</updated><entry><title>W13</title><link href="./2024-Spring-w13-PRB.html" rel="alternate"></link><published>2024-05-17T14:30:00+08:00</published><updated>2024-05-17T07:22:30+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-17:./2024-Spring-w13-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十三週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第十三週 網誌&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T14:30:00+08:00</updated><entry><title>W13</title><link href="./2024-Spring-w13-PRB.html" rel="alternate"></link><published>2024-05-17T14:30:00+08:00</published><updated>2024-05-17T07:24:45+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-17:./2024-Spring-w13-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十三週 組合模擬&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十三週 組合模擬&lt;/p&gt;
 
 &lt;p&gt;NX繪製零件&lt;/p&gt;
 &lt;p&gt;1.底座&lt;/p&gt;
@@ -9,23 +9,23 @@
 &lt;p&gt;4.S支架&lt;/p&gt;
 &lt;p&gt;5.軸&lt;/p&gt;
 &lt;p&gt;轉STL組合後在Inventor進行組裝後，進行CoppeliaSim模擬。&lt;/p&gt;
-&lt;p&gt;繪製零件之後發放給各組員組裝拍影片。&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫﹐NX"></category></entry><entry><title>W12</title><link href="./cd2024-2a-w12-PRB.html" rel="alternate"></link><published>2024-05-10T14:30:00+08:00</published><updated>2024-05-10T08:31:20+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-10:./cd2024-2a-w12-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十二週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第十二週 網誌&lt;/p&gt;
+&lt;p&gt;繪製零件之後發放給各組員組裝拍影片。&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫﹐NX"></category></entry><entry><title>W12</title><link href="./cd2024-2a-w12-PRB.html" rel="alternate"></link><published>2024-05-10T14:30:00+08:00</published><updated>2024-05-17T07:24:35+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-10:./cd2024-2a-w12-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十二週 NX&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十二週 NX&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h2&gt;w12&lt;/h2&gt;
 &lt;p&gt;下載SolveSpace開啟檔案，學習使用NX繪圖。&lt;/p&gt;
-&lt;p&gt;將個人分支建立成子模組同整到老師的倉儲。&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫﹐NX"></category></entry><entry><title>W11</title><link href="./cd2024-2a-w11-PRB.html" rel="alternate"></link><published>2024-05-03T15:00:00+08:00</published><updated>2024-05-10T08:31:12+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-03:./cd2024-2a-w11-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十一週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第十一週 網誌&lt;/p&gt;
+&lt;p&gt;將個人分支建立成子模組同整到老師的倉儲。&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫﹐NX"></category></entry><entry><title>W11</title><link href="./cd2024-2a-w11-PRB.html" rel="alternate"></link><published>2024-05-03T15:00:00+08:00</published><updated>2024-05-17T07:24:22+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-03:./cd2024-2a-w11-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十一週 課程心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十一週 課程心得&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h2&gt;w11&lt;/h2&gt;
 &lt;p&gt;今日作業為課程心得，以及學習如何在主分支建立其他分支，好讓大家可以供同編輯而不會衝突。
 心得如下:&lt;/p&gt;
-&lt;p&gt;對於網站編寫的流程有一點點的了解，經常在滑社群網站也會看到很多關於java或是html的廣告教學，不禁會讓我想到我們使用replit建立的靜態網站，想必這在未來會是一大趨勢。但是在這些作業完成的前提之下，我可能還需要學習如何管理一個群組，像是組員的進度不一致或是大家遇到一樣的問題卡關的時候，常有每個人都不知道怎麼做而愣在一旁，我自己透過詢問老師以及chatGPT有得到相當大的解答。再將資訊給組員參考。除了寫程式以外更了解到這些原理的背後運作方式，有效率的消化多方面不同的改版，最後可以在網路上共同完成。老師提到現今的機械企業在處理眾多改版以及客戶以及工程師溝通上的問題，我們所學習的協同設計就應該要可以融合在CAD上，在零件上的討論修改等等。修這門課可以讓我在未來更有競爭裡且對於我自己想走的路線是頗有幫助的，雖然語言程式真的很難。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫﹐課程心得"></category></entry><entry><title>W10</title><link href="./cd2024-2a-w10-PRB.html" rel="alternate"></link><published>2024-04-26T14:00:00+08:00</published><updated>2024-05-10T08:31:05+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-26:./cd2024-2a-w10-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第十週 網誌&lt;/p&gt;
+&lt;p&gt;對於網站編寫的流程有一點點的了解，經常在滑社群網站也會看到很多關於java或是html的廣告教學，不禁會讓我想到我們使用replit建立的靜態網站，想必這在未來會是一大趨勢。但是在這些作業完成的前提之下，我可能還需要學習如何管理一個群組，像是組員的進度不一致或是大家遇到一樣的問題卡關的時候，常有每個人都不知道怎麼做而愣在一旁，我自己透過詢問老師以及chatGPT有得到相當大的解答。再將資訊給組員參考。除了寫程式以外更了解到這些原理的背後運作方式，有效率的消化多方面不同的改版，最後可以在網路上共同完成。老師提到現今的機械企業在處理眾多改版以及客戶以及工程師溝通上的問題，我們所學習的協同設計就應該要可以融合在CAD上，在零件上的討論修改等等。修這門課可以讓我在未來更有競爭裡且對於我自己想走的路線是頗有幫助的，雖然語言程式真的很難。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫﹐課程心得"></category></entry><entry><title>W10</title><link href="./cd2024-2a-w10-PRB.html" rel="alternate"></link><published>2024-04-26T14:00:00+08:00</published><updated>2024-05-17T07:24:15+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-26:./cd2024-2a-w10-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十週 論文重點&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十週 論文重點&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
@@ -56,15 +56,15 @@
 &lt;p&gt;使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。&lt;/p&gt;
 &lt;p&gt;結論：&lt;/p&gt;
 &lt;p&gt;PD 和 PID 控制器均能實現球體位置控制，但 PID 控制器在跟踪斜坡和正弦參考信號時具有更好的性能。 該實驗涵蓋了建模、控制器設計、模擬和實施等多個控制系統的關鍵步驟，為學生提供了寶貴的學習經驗。&lt;/p&gt;
-&lt;p&gt;接下來, 必須要設法了解, 哪一篇或哪幾篇論文對我們解決下列問題最有參考價值!&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫﹐論文摘要"></category></entry><entry><title>W9</title><link href="./cd2024-2a-w9-PRB.html" rel="alternate"></link><published>2024-04-19T14:00:00+08:00</published><updated>2024-05-10T08:30:59+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-19:./cd2024-2a-w9-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第九週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第九週 網誌&lt;/p&gt;
+&lt;p&gt;接下來, 必須要設法了解, 哪一篇或哪幾篇論文對我們解決下列問題最有參考價值!&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫﹐論文摘要"></category></entry><entry><title>W9</title><link href="./cd2024-2a-w9-PRB.html" rel="alternate"></link><published>2024-04-19T14:00:00+08:00</published><updated>2024-05-17T07:24:06+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-19:./cd2024-2a-w9-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第九週 期中考週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第九週 期中考週&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h2&gt;w9&lt;/h2&gt;
-&lt;p&gt;期末考週&lt;/p&gt;
-&lt;p&gt;自評&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫﹐期中考"></category></entry><entry><title>W8</title><link href="./cd2024-2a-w8-PRB.html" rel="alternate"></link><published>2024-04-12T14:00:00+08:00</published><updated>2024-05-10T08:30:52+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-12:./cd2024-2a-w8-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第八週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第八週 網誌&lt;/p&gt;
+&lt;p&gt;期中考週&lt;/p&gt;
+&lt;p&gt;自評&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫﹐期中考"></category></entry><entry><title>W8</title><link href="./cd2024-2a-w8-PRB.html" rel="alternate"></link><published>2024-04-12T14:00:00+08:00</published><updated>2024-05-17T07:23:56+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-12:./cd2024-2a-w8-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第八週 問題處理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第八週 問題處理&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
@@ -72,8 +72,8 @@
 &lt;p&gt;今日遇到的較難處理的狀況-提交多數中有一則提交檔案過大，但是已經覆蓋很多次的提交。&lt;/p&gt;
 &lt;p&gt;詢問老師解釋git只能利用"增加"來提交檔案，所以之前加入過大的檔案儘管刪掉還是存在，只能透過找到那則提交然後單獨刪除才能解決後續的提交。&lt;/p&gt;
 &lt;p&gt;查詢chatGPT之後得知要往前推一則提交要輸入git reset --hard HEAD^。&lt;/p&gt;
-&lt;p&gt;推到自己要的提交之前進行修正。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫﹐ChatGPT"></category></entry><entry><title>W6</title><link href="./cd2024-2a-w6-PRB.html" rel="alternate"></link><published>2024-03-29T14:00:00+08:00</published><updated>2024-05-10T08:30:45+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-29:./cd2024-2a-w6-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第六週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第六週 網誌&lt;/p&gt;
+&lt;p&gt;推到自己要的提交之前進行修正。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫﹐ChatGPT"></category></entry><entry><title>W6</title><link href="./cd2024-2a-w6-PRB.html" rel="alternate"></link><published>2024-03-29T14:00:00+08:00</published><updated>2024-05-17T07:23:49+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-29:./cd2024-2a-w6-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第六週 codespaces&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第六週 codespaces&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
@@ -91,8 +91,8 @@
 &lt;p&gt;到github查看是否更新成功。&lt;/p&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫﹐子模組"></category></entry><entry><title>W5</title><link href="./cd2024-2a-w5-PRB.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-05-10T08:30:38+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第五週 網誌&lt;/p&gt;
+&lt;h1&gt;內容管理系統&lt;/h1&gt;</content><category term="w6"></category><category term="網誌編寫﹐子模組"></category></entry><entry><title>W5</title><link href="./cd2024-2a-w5-PRB.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-05-17T07:23:41+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-03-22:./cd2024-2a-w5-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第五週 建立群組&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第五週 建立群組&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
