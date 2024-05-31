@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T15:30:00+08:00</updated><entry><title>W14</title><link href="./2024-Spring-w14-PRB.html" rel="alternate"></link><published>2024-05-24T15:30:00+08:00</published><updated>2024-05-24T06:12:17+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-24:./2024-Spring-w14-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十三週 分配工作、零件同整&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第十三週 分配工作、零件同整&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T15:30:00+08:00</updated><entry><title>W15</title><link href="./2024-Spring-w15-PRB.html" rel="alternate"></link><published>2024-05-31T15:30:00+08:00</published><updated>2024-05-31T06:53:50+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-31:./2024-Spring-w15-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十五週 研究期末作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十五週 研究期末作業&lt;/p&gt;
+
+
+&lt;p&gt;因上次使用NX內的python record沒有成功，所以先繪製零件，但是目前遇到一個問題，就是畫好的零件已經是一個結果，沒辦法讓程式去了解到繪製過程，沒辦法產生繪製過程的程式碼。&lt;/p&gt;
+&lt;p&gt;詢問老師過後，得知雖然不能更改，但擁有"參數式"的概念，要的不是結果的零件檔案，而是從中取得參數可以做更改，在不同形狀幾何中，會有固定的變數參數，可以透過這些參數在程式中進行修改，這才是設計中最重要的部分。&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫﹐期末作業"></category></entry><entry><title>W14</title><link href="./2024-Spring-w14-PRB.html" rel="alternate"></link><published>2024-05-24T15:30:00+08:00</published><updated>2024-05-31T05:32:29+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-24:./2024-Spring-w14-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十四週 分配工作、零件同整&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十四週 分配工作、零件同整&lt;/p&gt;
 
 &lt;p&gt;分配零件給各組員，叮嚀組員要趕上進度。&lt;/p&gt;
 &lt;p&gt;零件檔案都在雲端硬碟[https://drive.google.com/drive/folders/1BFCF1uZ1_37gER7gu4ghxTeTzkzHRQ0X?usp=drive_link]&lt;/p&gt;
