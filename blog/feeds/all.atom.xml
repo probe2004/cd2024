@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-14T15:30:00+08:00</updated><entry><title>W17</title><link href="./2024-Spring-w17-PRB.html" rel="alternate"></link><published>2024-06-14T15:30:00+08:00</published><updated>2024-06-14T08:28:10+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-14:./2024-Spring-w17-PRB.html</id><content type="html">&lt;p&gt;2024 Spring 第十六週 項目作業&lt;/p&gt;
-&lt;p&gt;繪製足球平台之零件。
-1.球本體
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-14T15:30:00+08:00</updated><entry><title>W17</title><link href="./2024-Spring-w17-PRB.html" rel="alternate"></link><published>2024-06-14T15:30:00+08:00</published><updated>2024-06-14T08:46:37+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-14:./2024-Spring-w17-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十七週 項目作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 第十七週 項目作業&lt;/p&gt;
+
+
+&lt;p&gt;繪製足球平台之零件。&lt;/p&gt;
+&lt;p&gt;1.球本體
 2.球員(小車車)
 3.輪子&lt;/p&gt;
 &lt;p&gt;使用NX繪製零件並建立python檔案，錄影上傳youtube。&lt;/p&gt;
-&lt;p&gt;youtube連結都在靜態網站。&lt;/p&gt;
-&lt;p&gt;零件檔案:[https://drive.google.com/drive/folders/1O4HyKlf-hLNW45VXv58zLS72wdOPljq0?usp=sharing]&lt;/p&gt;
-&lt;p&gt;python檔案:[https://drive.google.com/drive/folders/1tyzc5V65GULadznkhCspiIcfM7aFodyF?usp=sharing]&lt;/p&gt;
-</content><category term="w16"></category><category term="網誌編寫﹐項目作業"></category></entry><entry><title>W16</title><link href="./2024-Spring-w16-PRB.html" rel="alternate"></link><published>2024-06-07T15:30:00+08:00</published><updated>2024-06-07T05:36:51+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-07:./2024-Spring-w16-PRB.html</id><content type="html">&lt;p&gt;2024 Spring 第十六週 期末自評填寫&lt;/p&gt;
-</content><category term="w16"></category><category term="網誌編寫﹐期末自評"></category></entry><entry><title>W15</title><link href="./2024-Spring-w15-PRB.html" rel="alternate"></link><published>2024-05-31T15:30:00+08:00</published><updated>2024-05-31T07:59:59+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-31:./2024-Spring-w15-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十五週 研究期末作業&lt;/p&gt;
+&lt;p&gt;youtube連結都在靜態網站。&lt;/p&gt;</content><category term="w16"></category><category term="網誌編寫﹐項目作業"></category></entry><entry><title>W16</title><link href="./2024-Spring-w16-PRB.html" rel="alternate"></link><published>2024-06-07T15:30:00+08:00</published><updated>2024-06-07T05:36:51+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-07:./2024-Spring-w16-PRB.html</id><content type="html">&lt;p&gt;2024 Spring 第十六週 期末自評填寫&lt;/p&gt;
+</content><category term="w16"></category><category term="網誌編寫﹐期末自評"></category></entry><entry><title>W15</title><link href="./2024-Spring-w15-PRB.html" rel="alternate"></link><published>2024-05-31T15:30:00+08:00</published><updated>2024-06-14T08:46:51+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-31:./2024-Spring-w15-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十五週 研究期末作業&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第十五週 研究期末作業&lt;/p&gt;
 
 
 &lt;p&gt;因上次使用NX內的python record沒有成功，所以先繪製零件，但是目前遇到一個問題，就是畫好的零件已經是一個結果，沒辦法讓程式去了解到繪製過程，沒辦法產生繪製過程的程式碼。&lt;/p&gt;
 &lt;p&gt;詢問老師過後，得知雖然不能更改，但擁有"參數式"的概念，要的不是結果的零件檔案，而是從中取得參數可以做更改，在不同形狀幾何中，會有固定的變數參數，可以透過這些參數在程式中進行修改，這才是設計中最重要的部分。&lt;/p&gt;
 &lt;p&gt;嘗試開啟球場進行模擬。&lt;/p&gt;
-&lt;p&gt;此週重新繪製零件並記錄python檔。&lt;/p&gt;
-&lt;p&gt;檔案如下:[https://drive.google.com/drive/folders/1OiN3QfTITiABzdNes4Dqcw1CNLlJcbt1?usp=drive_link]&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫﹐期末作業"></category></entry><entry><title>W14</title><link href="./2024-Spring-w14-PRB.html" rel="alternate"></link><published>2024-05-24T15:30:00+08:00</published><updated>2024-05-31T05:32:29+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-24:./2024-Spring-w14-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十四週 分配工作、零件同整&lt;/p&gt;
+&lt;p&gt;此週重新繪製零件並記錄python檔。&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫﹐期末作業"></category></entry><entry><title>W14</title><link href="./2024-Spring-w14-PRB.html" rel="alternate"></link><published>2024-05-24T15:30:00+08:00</published><updated>2024-06-14T08:47:08+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-24:./2024-Spring-w14-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十四週 分配工作、零件同整&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第十四週 分配工作、零件同整&lt;/p&gt;
 
 &lt;p&gt;分配零件給各組員，叮嚀組員要趕上進度。&lt;/p&gt;
-&lt;p&gt;零件檔案都在雲端硬碟[https://drive.google.com/drive/folders/1BFCF1uZ1_37gER7gu4ghxTeTzkzHRQ0X?usp=drive_link]&lt;/p&gt;
 &lt;p&gt;零件繪製影片都有用LINE傳給各位，依照各自認領的零件做然後傳至群組。&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫﹐分配工作"></category></entry><entry><title>W13</title><link href="./2024-Spring-w13-PRB.html" rel="alternate"></link><published>2024-05-17T14:30:00+08:00</published><updated>2024-05-17T07:38:08+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-05-17:./2024-Spring-w13-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十三週 組合模擬&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第十三週 組合模擬&lt;/p&gt;
 
