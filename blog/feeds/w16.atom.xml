@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w16</title><link href="./" rel="alternate"></link><link href="./feeds/w16.atom.xml" rel="self"></link><id>./</id><updated>2024-06-14T15:30:00+08:00</updated><entry><title>W17</title><link href="./2024-Spring-w17-PRB.html" rel="alternate"></link><published>2024-06-14T15:30:00+08:00</published><updated>2024-06-14T08:46:37+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-14:./2024-Spring-w17-PRB.html</id><summary type="html">&lt;p&gt;2024 Spring 第十七週 項目作業&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 第十七週 項目作業&lt;/p&gt;
-
-
-&lt;p&gt;繪製足球平台之零件。&lt;/p&gt;
-&lt;p&gt;1.球本體
-2.球員(小車車)
-3.輪子&lt;/p&gt;
-&lt;p&gt;使用NX繪製零件並建立python檔案，錄影上傳youtube。&lt;/p&gt;
-&lt;p&gt;youtube連結都在靜態網站。&lt;/p&gt;</content><category term="w16"></category><category term="網誌編寫﹐項目作業"></category></entry><entry><title>W16</title><link href="./2024-Spring-w16-PRB.html" rel="alternate"></link><published>2024-06-07T15:30:00+08:00</published><updated>2024-06-07T05:36:51+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-07:./2024-Spring-w16-PRB.html</id><content type="html">&lt;p&gt;2024 Spring 第十六週 期末自評填寫&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Probe的協同產品設計實習網站 - w16</title><link href="./" rel="alternate"></link><link href="./feeds/w16.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T15:30:00+08:00</updated><entry><title>W16</title><link href="./2024-Spring-w16-PRB.html" rel="alternate"></link><published>2024-06-07T15:30:00+08:00</published><updated>2024-06-07T05:36:51+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-06-07:./2024-Spring-w16-PRB.html</id><content type="html">&lt;p&gt;2024 Spring 第十六週 期末自評填寫&lt;/p&gt;
 </content><category term="w16"></category><category term="網誌編寫﹐期末自評"></category></entry></feed>
